@@ -1,0 +1,14 @@
+layout_spectrum: 0.5232975
+color:
+  saturation: 0.6559139
+  lightness: 0.4480287
+  brandStrength: 0.4265233
+  brandColors:
+    - '#2F253C'
+    - '#6E5454'
+    - '#D8C5CF'
+    - '#D64B3B'
+    - '#91A387'
+  rhythmicContrast: 0.3505384
+typography_spectrum: 0.6200717
+name: 'Beautiful Day Photo Booth '
