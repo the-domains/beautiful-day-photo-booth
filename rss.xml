@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beautiful Day Photo Booth ]]></title>
+        <description><![CDATA[Beautiful Day Photo Booth ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 23:32:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo Booth]]></title>
+            <description><![CDATA[<article><h1>Photo Booth</h1><p>'Pittsburgh's Best Photo Booth that doubles as a Video Booth! Guests can Email their photos, Facebook integration, and so much more!'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adc5bfb367533fedbc53f794c8fa40a13a4c5e31.jpg"></article>]]></description>
+            <link>http://www.beautifuldayphotobooth.com/</link>
+            <guid isPermaLink="false">b90d644e-c83f-492a-8296-1c90f6609e99</guid>
+            <pubDate>Sat, 27 Feb 2016 23:31:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
